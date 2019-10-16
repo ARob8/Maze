@@ -1,11 +1,6 @@
-<!DOCTYPE html>
-<html>
-    <head>
-      <meta charset="utf=8">
-    </head>
-    <body>
-    <h1>Maze:</h1>
-        <p>CHANGES MADE FROM PREVIOUS DESIGN
+Maze
+
+CHANGES MADE FROM PREVIOUS DESIGN
  -Print class added for printing open paths,walls,and paths.
  -vertex class added to model a vertex in a graph
  -graph class added to model a graph and do function alogrithm from book depthFirstSearch
@@ -38,7 +33,5 @@ EXTRA FUNCTIONALITY
 - (1) returns generated graph and exits program
 -if ENTER was selected generated graph is printed out after all graph values have been passed to maze 
 -Useful because DFS can easily fill all of the open paths(vertices) and if finish spawn is visted you know it solved the maze   
-</p>
-  </body>
-</html>
+
 
