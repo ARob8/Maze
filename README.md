@@ -21,7 +21,7 @@ This project serves as a comprehensive exercise in applying data structures and 
 ## Maze Input Format:
 Example:
 
-```
+`
 10, 11
 0, 0
 3, 10
@@ -35,7 +35,7 @@ Example:
 7, 1, 7, 2, 7, 3, 7, 6
 8, 1, 8, 5, 8, 6, 8, 8, 8, 10
 9, 3, 9, 7
-```
+`
 
 ## Conclusion
 This project demonstrates a profound understanding of data structures and algorithms, offering a practical solution for maze generation and solving. It underscores the significance and adaptability of these concepts in addressing real-world problem-solving scenarios.
