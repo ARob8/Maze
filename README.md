@@ -1,7 +1,6 @@
 # Maze
 
 ## Overview
-
 This C++ project demonstrates practical applications of data structures and algorithms, focusing on maze generation and solution. The program reads maze descriptions from a 2-dimensional array in a file, generates the maze, and then finds a solution, outputting it to another file.
 
 ## Features
@@ -19,25 +18,21 @@ This project serves as a comprehensive exercise in applying data structures and 
 3. The program will generate the maze and find a solution, writing the output, including the maze solution to a file.
 
 ## Maze Input Format
-
-The first line should contain two integers separated by a comma.
-The subsequent lines should contain pairs of integers separated by commas.
-
 Example:
 ```
-10, 11
-0, 0
-3, 10
-0, 6, 0, 7, 0, 9
-1, 1, 1, 2, 1, 4, 1, 7
-2, 1, 2, 7, 2, 8, 2, 10
-3, 1, 3, 2, 3, 3, 3, 4, 3, 7
-4, 0, 4, 6, 4, 9, 4, 10
-5, 2, 5, 3, 5, 4, 5, 5, 5, 7
-6, 1, 6, 8, 6, 9
-7, 1, 7, 2, 7, 3, 7, 6
-8, 1, 8, 5, 8, 6, 8, 8, 8, 10
-9, 3, 9, 7
+10, 11.
+(0, 0).
+(3, 10).
+(0, 6), (0, 7), (0, 9),
+(1, 1), (1, 2), (1, 4), (1, 7),
+(2, 1), (2, 7), (2, 8), (2, 10),
+(3, 1), (3, 2), (3, 3), (3, 4), (3, 7),
+(4, 0), (4, 6), (4, 9), (4, 10),
+(5, 2), (5, 3), (5, 4), (5, 5), (5, 7),
+(6, 1), (6, 8), (6, 9),
+(7, 1), (7, 2), (7, 3), (7, 6),
+(8, 1), (8, 5), (8, 6), (8, 8), (8, 10),
+(9, 3), (9, 7).
 ```
 
 ## Conclusion
